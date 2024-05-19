@@ -1,1 +1,10 @@
 hello\你好
+加\add
+找\found
+found\找
+apple\苹果
+space\太空；空
+图书馆\library
+用户\User
+桌子\Desk
+西边；西\east
